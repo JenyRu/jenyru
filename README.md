@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently studying Applied Computer Technology at OsloMet.
 <!--
 **JenyRu/jenyru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
